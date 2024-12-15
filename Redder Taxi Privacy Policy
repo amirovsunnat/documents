@@ -22,6 +22,9 @@ ReddeR - har qanday joyga, istalgan joyga ko'chishga yordam beradi.
 
 
 2.Условия использования
+Разрешения на использование местоположения:
+Мы запрашиваем и обрабатываем текущее местоположение клиента только в случаях, когда это явно необходимо, например, если клиент просит водителя найти его.
+Перед доступом к местоположению клиента мы запрашиваем разрешение, обеспечивая защиту конфиденциальности клиента.
 
 Статья 1. Общие положения
 1.1. Объявления не должны содержать информацию, запрещенную либо противоречащую законодательству Республики Узбекистан, других стран.
@@ -80,6 +83,11 @@ ReddeR - har qanday joyga, istalgan joyga ko'chishga yordam beradi.
 
 
 Terms of Use
+
+Location Permissions:
+
+We only request and process the client's current location when explicitly required, such as when the client requests a driver to locate them.
+Before accessing the client's location, we will ask for permission, ensuring the client's privacy is respected.
 
 Article 1. General Provisions
 1.1. Ads should not contain information prohibited or contrary to the legislation of the Republic of Uzbekistan, other countries.
@@ -140,6 +148,9 @@ Refunds for paid services are not available
 
 
 Foydalanish shartlari
+Joylashuv ruxsatnomalari:
+Biz mijozning joriy joylashuvini faqat kerak bo'lganda, masalan, mijoz haydovchidan uni topishini so'raganida, so'raymiz va qayta ishlaymiz.
+Mijozning joylashuviga kirishdan oldin biz uning roziligini so'raymiz, mijozning maxfiyligini ta'minlab.
 
 1 -modda. Umumiy qoidalar
 1.1. E'lonlar O'zbekiston Respublikasi, boshqa davlatlar qonunlariga zid yoki taqiqlangan ma'lumotlar bo'lmasligi kerak.
