@@ -1,0 +1,135 @@
+Privacy Policy – UzFit
+
+Last updated: [Insert Date]
+
+UzFit (“we,” “our,” or “us”) respects your privacy. This Privacy Policy explains how we collect, use, disclose, and protect information when you use the UzFit mobile application (the “App”).
+
+1) Information We Collect
+
+We collect only what’s needed to provide training features and statistics.
+
+Account Info (optional): name, email address (if you create an account or sign in).
+
+Profile & Fitness Inputs: height, weight, age, gender (if provided) to personalize workouts and calorie calculations.
+
+Workout & Usage Data: selected exercises, workout duration/completion, sets/reps, calories burned (estimates), personal bests, and in-app interactions (e.g., screens visited).
+
+Device & Log Data: device model, OS version, IP address, app version, crash logs, and performance analytics (to keep the app stable and improve it).
+
+Permissions & Sensors (optional): if you grant permission, we may use device motion/accelerometer to assist workout tracking. You can disable these anytime in your device settings.
+
+We do not collect sensitive health diagnoses. Fitness data you enter or generate is used for coaching features and statistics.
+
+2) How We Use Your Information
+
+We use information to:
+
+Provide core features: let you choose exercises, perform workouts, compute calories, and show progress statistics.
+
+Personalize plans, recommendations, and insights.
+
+Sync and back up your data (if you sign in).
+
+Monitor performance, fix bugs, and improve the App.
+
+Send essential notifications (progress reminders, feature updates). You can control notifications in settings.
+
+Comply with legal obligations and enforce our Terms.
+
+3) Legal Bases (if applicable)
+
+Where required (e.g., GDPR jurisdictions), we process data based on:
+
+Performance of a contract (to deliver the App’s features),
+
+Legitimate interests (app security, improvement),
+
+Consent (e.g., optional sensors/notifications; you can withdraw at any time).
+
+4) Sharing of Information
+
+We do not sell your personal information. We may share limited data with:
+
+Service Providers (e.g., secure cloud hosting, analytics, crash reporting, push notifications) who process it on our behalf under confidentiality and security obligations.
+
+Legal/Compliance if required by law or to protect rights.
+
+Business Transfer (e.g., merger/acquisition) where your data remains protected and you’ll be notified of any material changes.
+
+5) Advertising
+
+We do not use your personal data for third-party targeted advertising. If we ever introduce ads in the future, we will update this Policy and provide choices.
+
+6) Data Retention
+
+We retain your workout history and profile while your account is active.
+
+If you request deletion or stop using the App, we delete or anonymize data within a reasonable period, unless we must keep some records for legal or security reasons.
+
+7) Data Security
+
+We use reasonable administrative, technical, and physical safeguards to protect your information (encryption in transit, access controls, logging). No method is 100% secure, but we continually improve our protections.
+
+8) Your Rights & Controls
+
+Depending on your region, you may have the right to:
+
+Access your personal data,
+
+Correct inaccurate data,
+
+Delete your account and data,
+
+Export your data (where applicable),
+
+Object/Restrict certain processing,
+
+Withdraw consent (for optional features like sensors/notifications).
+
+To exercise these rights, email uzfitcs@gmail.com
+ from your account email and describe your request. We may need to verify your identity.
+
+9) Children’s Privacy
+
+UzFit is not intended for children under 13 (or the minimum age required by local law). We do not knowingly collect data from children under that age. If you believe a child provided data, contact uzfitcs@gmail.com
+ so we can delete it.
+
+10) International Transfers
+
+Your data may be processed and stored in countries different from your own. We apply appropriate safeguards to protect it according to this Policy and applicable laws.
+
+11) Third-Party Services
+
+The App may include links or integrations operated by third parties (e.g., analytics, crash reporting, push notifications). Their use is governed by their own privacy policies. We aim to minimize data shared with such services and restrict it to operational needs.
+
+If you want this section to list specific providers (e.g., Firebase Analytics/Crashlytics), tell me which ones you use and I’ll insert exact names and purposes.
+
+12) Data Deletion & Account Closure
+
+You can request account and data deletion by emailing uzfitcs@gmail.com
+. We will delete or anonymize your personal information unless retention is required by law, fraud prevention, or security.
+
+13) Changes to This Policy
+
+We may update this Policy to reflect changes in our practices. We’ll update the “Last updated” date above. Material changes will be communicated in-app or by other reasonable means.
+
+14) Contact Us
+
+If you have questions or requests about privacy or your data:
+
+Email: uzfitcs@gmail.com
+
+(No phone support.)
+
+App Store / Google Play – Short Privacy Summary
+
+We collect basic profile data (if provided) and workout usage data (selected exercises, completion, stats, calorie estimates) to power personalized training and progress insights.
+
+Data is used to deliver features, improve stability, and show your statistics—not for selling or third-party targeted ads.
+
+You can control permissions (sensors, notifications) in settings and request data deletion anytime via uzfitcs@gmail.com
+.
+
+We use reputable providers for secure hosting/analytics and protect your data with modern security measures.
+
+Not for children under 13.
